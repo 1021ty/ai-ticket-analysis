@@ -77,3 +77,10 @@ mvn exec:java -Dexec.mainClass="com.partner.TicketAnalyzer"
 - AI 帮助设计异常检测逻辑（如支付问题集中、处理时长异常等）
 - AI 辅助生成可视化图表代码和 HTML 报告模板
 - 整个项目从数据读取到报告生成均由 AI 辅助加速完成
+
+## 项目运行截图
+![IDEA代码界面](idea.png)
+![Maven控制台运行结果](console-run.png)
+![HTML可视化报告](html-report.png)
+![工单分类饼图](category-pie-chart.png)
+
